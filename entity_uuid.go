@@ -1,4 +1,4 @@
-package utils
+package gutils
 
 type entityUUID struct {
 	value string

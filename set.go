@@ -1,4 +1,4 @@
-package utils
+package gutils
 
 var empty = struct{}{}
 
